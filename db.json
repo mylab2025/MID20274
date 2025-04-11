@@ -7,7 +7,7 @@
         "MF": "IOR"
       },
       "MID": "MID20274",
-      "MD": "SWITCHING DIODE 1.5A & 64V rated || Design Ref: D150, D159.",
+      "MD": "SWITCHING DIODE 1.5A & 64V rated || Design Ref: D150, D159. || Required MIDs: MID20270",
       "MT": "Electronic Comp.",
       "MQNT": 8,
       "MQATG": "#CLASS1",
